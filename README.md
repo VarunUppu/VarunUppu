@@ -1,5 +1,5 @@
 # About Me:
-Hey, I’m Varun.<br>I’m someone who enjoys turning ideas into actual working things — especially where AI meets full-stack development. I like experimenting with new technologies, breaking stuff, fixing it, and learning along the way.<br><br>I’m not just here to write code — I’m here to understand how things work and build projects that actually solve real problems. Whether it’s exploring AI concepts or deploying full-stack apps, I’m always looking for the next thing to figure out.<br><br>Still early in my journey, but I’m constantly leveling up — one project, one idea, and one late-night debugging session at a time.
+Computer Science student passionate about Full-Stack Web Development, and building scalable software solutions that transform data into impactful user experiences.
 
 
 ## Socials:
