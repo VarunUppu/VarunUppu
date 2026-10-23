@@ -93,7 +93,7 @@ I'm a Computer Science student passionate about **full-stack web development** a
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VarunUppu&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub Trophies"/>
+[![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=VarunUppu&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
