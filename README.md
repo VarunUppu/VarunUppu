@@ -73,16 +73,16 @@ I'm a Computer Science student passionate about **full-stack web development** a
 <div align="center">
 
 <a href="https://github.com/VarunUppu">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VarunUppu&show_icons=true&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1&icon_color=A78BFA&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VarunUppu&show_icons=true&hide_border=true&theme=transparent&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1&icon_color=A78BFA" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/VarunUppu">
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=VarunUppu&hide_border=true&background=0B1020&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
+<img height="165" src="https://streak-stats.demolab.com?user=VarunUppu&hide_border=true&background=0B1020&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub Streak"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/VarunUppu">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunUppu&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1&langs_count=8" alt="Most used programming languages"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunUppu&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1&langs_count=8" alt="Most Used Languages"/>
 </a>
 
 </div>
